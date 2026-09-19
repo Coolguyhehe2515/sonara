@@ -1,0 +1,2 @@
+# sonara
+A discord bot
