@@ -1,29 +1,70 @@
-Personal Use License (PUL)
+Personal Use License (PUL) 1.0
 
 Copyright (c) 2026 Coolguyhehe2515
 
-Permission is hereby granted, free of charge, to any person obtaining a copy 
-of this software and associated documentation files (the "Software"), to view, 
-study, and modify the Software for personal, non-commercial use only, 
-subject to the following conditions:
+1. Permission
 
-1. The above copyright notice and this permission notice shall be included in all 
-   copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to view, study, and modify the Software for personal, educational, experimental, and non-commercial software development purposes, subject to the terms and conditions of this License.
 
-2. RESTRICTION: The Software and any derivative works based on it may NOT be 
-   used, distributed, sublicensed, or sold for any commercial, business-related, 
-   corporate, or for-profit purposes whatsoever without explicit written 
-   permission from the copyright holder.
+2. Community and Server Use
 
-3. REDISTRIBUTION: Public redistribution of this Software, whether in its 
-   original form or modified, is strictly prohibited without prior written 
-   consent.
+Use of the Software in online communities, including Discord servers, is permitted.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, 
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
-SOFT
-WARE.
+A community or server using the Software may generate revenue through donations, subscriptions, memberships, advertisements, server boosts, sponsorships, or other forms of community funding.
+
+Such revenue-generating activity does not, by itself, constitute commercial use of the Software under this License, provided that the Software itself is not being sold, licensed, sublicensed, or distributed as a commercial product or service.
+
+3. Modification
+
+You may modify the Software for your own personal or private use.
+
+Modified versions may not be publicly distributed, published, sublicensed, sold, or otherwise made available to third parties without prior written permission from the copyright holder.
+
+4. Redistribution
+
+Public redistribution of the Software, whether in original or modified form, is prohibited without prior written permission from the copyright holder.
+
+This includes, but is not limited to:
+
+- Publishing the Software or modified versions on public repositories.
+- Uploading the Software to software distribution platforms.
+- Providing the Software as a downloadable package to third parties.
+- Repackaging or mirroring the Software for public distribution.
+
+Private copies maintained solely for personal use are permitted.
+
+5. Commercial Use
+
+The Software may not be sold, sublicensed, rented, leased, or commercially distributed as software without prior written permission from the copyright holder.
+
+Operating the Software as part of a community, Discord server, or similar online community is permitted, including where that community generates revenue as described in Section 2.
+
+Any use in which the Software itself is offered as a paid product, paid software service, or commercial software distribution requires prior written permission from the copyright holder.
+
+6. Copyright Notice
+
+The copyright notice and this License must be included with all permitted copies of the Software.
+
+You may not remove, alter, or obscure copyright notices contained in the Software.
+
+7. No Trademark Rights
+
+This License does not grant permission to use any trademarks, logos, names, branding, or other identifying marks associated with the copyright holder or the Software, except as necessary to accurately identify the Software.
+
+8. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. Termination
+
+Any rights granted under this License automatically terminate if you violate the terms of this License.
+
+Upon termination, you must cease any use and distribution of the Software that is not otherwise permitted by this License.
+
+10. Permission Requests
+
+Requests for permissions not expressly granted by this License should be directed to the copyright holder.
+
+Copyright (c) 2026 Coolguyhehe2515
